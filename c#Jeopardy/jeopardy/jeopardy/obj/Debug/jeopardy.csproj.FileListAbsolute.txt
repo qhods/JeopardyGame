@@ -1,0 +1,10 @@
+C:\Users\hodso\Desktop\c#Jeopardy\jeopardy\jeopardy\bin\Debug\jeopardy.exe.config
+C:\Users\hodso\Desktop\c#Jeopardy\jeopardy\jeopardy\bin\Debug\jeopardy.exe
+C:\Users\hodso\Desktop\c#Jeopardy\jeopardy\jeopardy\bin\Debug\jeopardy.pdb
+C:\Users\hodso\Desktop\c#Jeopardy\jeopardy\jeopardy\obj\Debug\jeopardy.csprojAssemblyReference.cache
+C:\Users\hodso\Desktop\c#Jeopardy\jeopardy\jeopardy\obj\Debug\jeopardy.Properties.Resources.resources
+C:\Users\hodso\Desktop\c#Jeopardy\jeopardy\jeopardy\obj\Debug\jeopardy.csproj.GenerateResource.cache
+C:\Users\hodso\Desktop\c#Jeopardy\jeopardy\jeopardy\obj\Debug\jeopardy.csproj.CoreCompileInputs.cache
+C:\Users\hodso\Desktop\c#Jeopardy\jeopardy\jeopardy\obj\Debug\jeopardy.exe
+C:\Users\hodso\Desktop\c#Jeopardy\jeopardy\jeopardy\obj\Debug\jeopardy.pdb
+C:\Users\hodso\Desktop\c#Jeopardy\jeopardy\jeopardy\obj\Debug\jeopardy.Jeopardy.resources
